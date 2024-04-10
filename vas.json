@@ -1,6 +1,6 @@
+
 {
-  "blacklistedLicenses": [
-    "license:17bbe3eeab5bc439caf9d74ddbcdd82f3b114fef",
-    "license:"
-  ]
+  "license:17bbe3eeab5bc439caf9d74ddbcdd82f3b114fef": {
+    "reason": "Vas for test"
+  }
 }
