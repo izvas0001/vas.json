@@ -1,8 +1,8 @@
-
 {
-blacklistedLicenses{
-  "license:17bbe3eeab5bc439caf9d74ddbcdd82f3b114fef": {
-)
+  "blacklistedLicenses": {
+    "license:17bbe3eeab5bc439caf9d74ddbcdd82f3b114fef": {
+      "reason": "Violation of terms of service"
+    }
+    
   }
 }
-
