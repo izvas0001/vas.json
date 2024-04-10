@@ -1,4 +1,5 @@
-blacklistedLicenses [
-   "license:17bbe3eeab5bc439caf9d74ddbcdd82f3b114fef",
-    "LICENSE2"
-]
+{
+  "blacklistedLicenses": [
+    "license:17bbe3eeab5bc439caf9d74ddbcdd82f3b114fef",
+  ]
+}
