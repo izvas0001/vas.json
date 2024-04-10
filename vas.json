@@ -1,5 +1,8 @@
 {
   "blacklistedLicenses": [
     "license:17bbe3eeab5bc439caf9d74ddbcdd82f3b114fef",
+    "license:example_license",
+    "license:another_blacklisted_license"
   ]
 }
+
