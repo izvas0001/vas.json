@@ -1,7 +1,6 @@
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> ** About This **
-- This vas.json just created to do something 
 - this work only for QBCore
 
 <br><br> 
