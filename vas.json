@@ -2,6 +2,14 @@
   "webhook_url": "https://discord.com/api/webhooks/1239736731209695423/l3JgM5MZjYMU2iQHzdh2lhvUosAg_7f4e5ekn43S1iXCx_ZK0KzmioxWAaxWojNygnmi",
   "blacklisted_licenses": [
       "license:17bbe3eeab5bc439caf9d74ddbcdd82f3b114feffffff",
+     "license:aa45aa824286fe789351972abac597135ac852d2",
+    "license:e70fd633f8edec0c52d59f890240f91cdc25a5b2",
+    "license:99345c4479247d9aca7a86b73978fe257c17fdf7",
+    "license:85d51ddffd310328205a2b26977176b335dfa526",
+    "license:1ef66e8a7f90448fd02898f2a70ec190f604798f",
+    "license:f212668f8b6d27095694c2673ea29762d24c39ce",
+    "license:16a1ca43de113eace72ea1da47c378d419fa06d3",
+    
   ],
   "blacklist_message": "You Are BlackListed From This Server ! ( please contact vas ! ) ."
 }
